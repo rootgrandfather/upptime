@@ -4,19 +4,19 @@
     "url": "https://www.idocdown.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.idocdown.com.ico",
     "slug": "www-idocdown",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 2807,
-    "timeDay": 6372,
-    "timeWeek": 4188,
-    "timeMonth": 2807,
-    "timeYear": 2807,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 2763,
+    "timeDay": 5371,
+    "timeWeek": 3971,
+    "timeMonth": 2763,
+    "timeYear": 2763,
     "dailyMinutesDown": {
-      "2025-07-13": 25
+      "2025-07-13": 40
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/it.idocdown.com.ico",
     "slug": "it-idocdown",
     "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "96.61%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptime": "99.75%",
+    "uptimeDay": "95.58%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 2923,
     "timeDay": 9303,
     "timeWeek": 5113,
     "timeMonth": 2923,
     "timeYear": 2923,
     "dailyMinutesDown": {
-      "2025-07-13": 49,
+      "2025-07-13": 64,
       "2025-06-21": 17
     }
   }
