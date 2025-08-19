@@ -24,7 +24,7 @@
     "url": "https://www.airunfast.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.airunfast.com.ico",
     "slug": "airunfast",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 1696,
     "timeMonth": 1411,
     "timeYear": 1496,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-19": 0
+    }
   },
   {
     "name": "it.idocdown",
@@ -43,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/it.idocdown.com.ico",
     "slug": "it-idocdown",
     "status": "up",
-    "uptime": "98.92%",
+    "uptime": "98.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "98.92%",
+    "uptimeYear": "98.93%",
     "time": 2302,
     "timeDay": 2216,
     "timeWeek": 2669,
