@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.idocdown.com.ico",
     "slug": "www-idocdown",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -29,9 +29,9 @@
     "url": "https://www.airunfast.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.airunfast.com.ico",
     "slug": "airunfast",
-    "status": "up",
-    "uptime": "60.10%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "60.12%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "53.83%",
@@ -222,7 +222,8 @@
       "2026-06-21": 526,
       "2026-06-26": 114,
       "2026-06-25": 209,
-      "2026-06-27": 74
+      "2026-06-27": 74,
+      "2026-08-18": 0
     }
   },
   {
