@@ -28,11 +28,11 @@
     "url": "https://www.airunfast.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.airunfast.com.ico",
     "slug": "airunfast",
-    "status": "up",
+    "status": "down",
     "uptime": "61.61%",
-    "uptimeDay": "94.43%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "94.62%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "53.82%",
     "time": 1166,
     "timeDay": 1698,
@@ -222,7 +222,7 @@
       "2026-06-25": 209,
       "2026-06-27": 74,
       "2026-08-18": 16,
-      "2026-09-03": 81
+      "2026-09-03": 78
     }
   },
   {
